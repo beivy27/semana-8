@@ -1,0 +1,13 @@
+.navbar-brand {
+  letter-spacing: 1px;
+  color: #ffdd57 !important;
+}
+
+#btnAlerta {
+  border-radius: 999px;
+  padding: 10px 18px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
